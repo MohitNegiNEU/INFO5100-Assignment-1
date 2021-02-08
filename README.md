@@ -1,5 +1,5 @@
 # INFO5100-Assignment-1
-Lab assignment_1 for INFO5100
+Lab assignment_1 for INFO5100<br>
 The following java application build in Netbeans using swing GUI toolkit reads and displays:
 1)   Demographic info such first name, last name, phone number, date of birth, age, height, weight, social security number.
 2)   Address information: street address, city, state, and zip code. 
@@ -7,8 +7,8 @@ The following java application build in Netbeans using swing GUI toolkit reads a
 4)   Checking account information: Same as above except the type value will be checking.
 5)   Driver’s license information: License number, date it was issued, date of expiration, blood type, and a picture.
 6)   Medical Record: Medical record number, Alergy1, Alergy2, Alergy3.
-
-<h3>Main Page</h3>
+<br>
+<h3 style="color:red;">Main Page</h3>
 <img src="https://user-images.githubusercontent.com/62002911/107280071-d7b17e80-6a25-11eb-8ede-ac53e404d9c0.PNG" ,width="1000", height="300">
 
 <h3>Personal Information Page & view panel</h3>
