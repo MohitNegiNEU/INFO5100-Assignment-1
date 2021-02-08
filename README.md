@@ -7,6 +7,22 @@ The following java application build in Netbeans using swing GUI toolkit reads a
 4)   Checking account information: Same as above except the type value will be checking.
 5)   Driver’s license information: License number, date it was issued, date of expiration, blood type, and a picture.
 6)   Medical Record: Medical record number, Alergy1, Alergy2, Alergy3.
+
+Tab Name                          |  Description
+----------------------------------|------------------------------------------------------------------------------------
+Home                         |  Brings you to initial page
+Pesronal Information             |  Information Such as first name, last name, phone number, date of birth, age, height, weight, social security number.
+Address Information             |  Address information: street address, city, state, and zip code. 
+Banking Information             |  Account information: Bank name, bank routing number, bank account number, account balance, account type 
+Driver License Information             |  Driver’s license information: License number, date it was issued, date of expiration, blood type, and a picture.
+Medical Information             |  Medical Record: Medical record number, Alergy1, Alergy2, Alergy3.
+Report            |   Report jpanel to display all the data gathered in 1 through 6 on one single panel.
+
+
+
+
+
+
 <br>
 <h3 style="color:red;">Main Page</h3>
 <img src="https://user-images.githubusercontent.com/62002911/107280071-d7b17e80-6a25-11eb-8ede-ac53e404d9c0.PNG" ,width="1000", height="300">
